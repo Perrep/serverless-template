@@ -1,0 +1,11 @@
+# Files
+.eslintrc
+package-lock.json
+notes.txt
+
+# Folders
+.vscode/
+.serverless/
+.dynamodb/
+offline/
+node_modules/

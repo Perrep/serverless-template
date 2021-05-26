@@ -1,0 +1,18 @@
+{
+  "name": "products",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "aws-sdk-mock": "^5.1.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/eslint-parser": "^7.14.3",
+    "eslint": "^7.26.0",
+    "serverless-dynamodb-local": "^0.2.39",
+    "serverless-mocha": "^1.12.0",
+    "serverless-offline": "^7.0.0",
+    "serverless-pseudo-parameters": "^2.5.0"
+  }
+}
